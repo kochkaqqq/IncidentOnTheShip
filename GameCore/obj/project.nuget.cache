@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZDPefmzajRClkOZDBw9wQ9/dhji2OdvNT0cl0KNxjFOOGBKLOF+ik78+i5XClZ03/wF7giPq9pytLVJBgVf5jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\megak\\source\\repos\\Learning\\CaseOnShip\\GameCore\\GameCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\megak\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\megak\\.nuget\\packages\\system.drawing.common\\8.0.4\\system.drawing.common.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
